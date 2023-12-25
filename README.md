@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jmw9501@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="[https://open.kakao.com/o/sGFzzbsf](https://open.kakao.com/o/sFmWV4Nf)"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
+    <a href="https://open.kakao.com/o/sFmWV4Nf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
 </div>
 
 # Once I've used
