@@ -66,7 +66,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-        <img src="https://img.shields.io/badge/vercel-E34F26?style=for-the-badge&logo=vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/subversion-809CC9?style=flat-square&logo=subversion&logoColor=white">
     </div>
 </div><br>
 </div>
