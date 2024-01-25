@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![coo-kiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=coo-kiee&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/coo-kiee/github-readme-stats)
 
 # Blog
-[Notion](https://marmalade-hugger-50c.notion.site/IT-Blog-c85c573c799840918d2002c7557dc274?pvs=4)
+[IT Blolg](https://coo-kiee.notion.site/coo-kiee/IT-Blog-c85c573c799840918d2002c7557dc274)
 
 # Contact Me
 <div style="display:flex; flex-direction:row;">
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white"> 
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
